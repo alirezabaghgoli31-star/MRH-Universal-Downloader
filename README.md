@@ -9,8 +9,8 @@
 <h3 align="center">Download from Instagram, GitHub and any site - Just by writing a commit message</h3>
 
 <p align="center">
-  <b>✊ دسترسی به اطلاعات آزاد، یک حق بنیادین بشر است / Access to information is a human right</b>
-</p>
+  <b>✊ دسترسی به اطلاعات آLزاد، یک حق بنیادین بشر است / Access to information is a human right</b>
+</p>L
 
 ---
 
