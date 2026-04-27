@@ -61,7 +61,7 @@
 ### مرحله 4: اولین دانلود تست
 1. هر فایلی را در ریپو ویرایش کنید (مثلاً `README.md`)
 2. در کامیت مسیج بنویسید:
-dl: https://raw.githubusercontent.com/sample/test-file/main/sample.txt
+dl: [https://raw.githubusercontent.com/sample/test-file/main/sample.txt](https://youtu.be/jzaqdKl40Ww?is=hANJQGHJu2k6u7J3)
 
 3. روی **Commit changes** کلیک کنید
 4. بعد از ۱-۲ دقیقه، به برگه **Code** بروید
