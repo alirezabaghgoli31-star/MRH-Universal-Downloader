@@ -1,4 +1,3 @@
-
 name: MRH Universal Downloader
 
 on:
@@ -16,10 +15,10 @@ jobs:
     
     steps:
     - name: Checkout
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5          # ✅ نسخه v5 (پشتیبانی از Node.js 24)
       
     - name: Setup Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6      # ✅ نسخه v6 (پشتیبانی از Node.js 24)
       with:
         python-version: '3.11'
         
